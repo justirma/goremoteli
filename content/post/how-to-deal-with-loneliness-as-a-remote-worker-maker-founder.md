@@ -2,6 +2,14 @@
 date: 2019-07-29
 title: How to deal with loneliness as a remote worker?
 image: "remote5.jpg"
+tags: [
+    "remote work",
+]
+categories: [
+    "Lifestyle",
+]
+---
+
 ---
 
 Ever since I've started to work remote or work from home I've felt the feeling of lonely almost consistently.

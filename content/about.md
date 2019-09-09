@@ -1,9 +1,14 @@
 +++
 title = "About Go Remoteli"
 date = "2019-01-01"
-image = 'read.jpg'
-category = "remote work"
-tag = "remote"
+image = 'goremoteli.png'
+description = ""
+tags = [
+    "about",
+    "remote",
+]
+categories = [
+    "Remote Work",
+    "Teams",
+]
 +++
-
-Hugo is the **world’s fastest framework for building websites**. It is written in Go.

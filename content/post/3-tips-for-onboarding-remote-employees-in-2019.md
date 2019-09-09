@@ -3,6 +3,14 @@ author: "Irma Mesa"
 image: "remote4.jpg"
 date: 2019-08-11
 title: 3 tips for onboarding remote employees
+tags: [
+    "onboarding",
+    "management",
+]
+categories: [
+    "Remote Work",
+    "Management",
+]
 ---
 
 Okay, so not only is it difficult to hire remote employees but it’s even harder to onboard them. Ideally, if your company can afford it it’s substantially easier to have an offsite to onboard the new hire in person but that’s not super realistic and never expected.

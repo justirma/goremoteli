@@ -3,6 +3,15 @@ author: "Irma Mesa"
 image: "remote1.jpg"
 date: 2019-07-28
 title: Find remote engineering roles today
+tags: [
+    "remote jobs",
+    "engineering",
+]
+categories: [
+    "Remote Jobs",
+]
+---
+
 ---
 
 I'll be covering 2 big topics to help you find and land your next Remote Engineering role. <!--more--> The first is understanding how to best showcase that you're open and ready to work in a remote work environment. Secondly, I'll show you a few sites that have truly worked for friends in the past to find and at least get an interview for a remote role.
