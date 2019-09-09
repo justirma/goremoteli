@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>go remoteli</title>
+    <link>https://goremote.li/</link>
+    <description>Recent content on go remoteli</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyright © 2019</copyright>
+    <lastBuildDate>Tue, 27 Aug 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://goremote.li/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>What is remote work? And what you should know about it in 2019</title>
+      <link>https://goremote.li/post/what-is-remote-work/</link>
+      <pubDate>Tue, 27 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://goremote.li/post/what-is-remote-work/</guid>
+      <description>&lt;p&gt;You may know of remote work in a few different ways, let’s cover them.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>3 tips for onboarding remote employees</title>
+      <link>https://goremote.li/post/3-tips-for-onboarding-remote-employees-in-2019/</link>
+      <pubDate>Sun, 11 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://goremote.li/post/3-tips-for-onboarding-remote-employees-in-2019/</guid>
+      <description>&lt;p&gt;Okay, so not only is it difficult to hire remote employees but it’s even harder to onboard them. Ideally, if your company can afford it it’s substantially easier to have an offsite to onboard the new hire in person but that’s not super realistic and never expected.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>How to deal with loneliness as a remote worker?</title>
+      <link>https://goremote.li/post/how-to-deal-with-loneliness-as-a-remote-worker-maker-founder/</link>
+      <pubDate>Mon, 29 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://goremote.li/post/how-to-deal-with-loneliness-as-a-remote-worker-maker-founder/</guid>
+      <description>&lt;p&gt;Ever since I&amp;rsquo;ve started to work remote or work from home I&amp;rsquo;ve felt the feeling of lonely almost consistently.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Find remote engineering roles today</title>
+      <link>https://goremote.li/post/find-remote-engineering-roles-today./</link>
+      <pubDate>Sun, 28 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://goremote.li/post/find-remote-engineering-roles-today./</guid>
+      <description>&lt;p&gt;I&amp;rsquo;ll be covering 2 big topics to help you find and land your next Remote Engineering role.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>About Hugo</title>
+      <link>https://goremote.li/about/</link>
+      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://goremote.li/about/</guid>
+      <description>Hugo is the world’s fastest framework for building websites. It is written in Go.
+It makes use of a variety of open source projects including:
+ https://github.com/russross/blackfriday https://github.com/alecthomas/chroma https://github.com/muesli/smartcrop https://github.com/spf13/cobra https://github.com/spf13/viper  Learn more and contribute on GitHub.</description>
+    </item>
+    
+  </channel>
+</rss>

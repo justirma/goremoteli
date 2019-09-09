@@ -1,5 +1,5 @@
 baseurl = "https://goremote.li/"  # Include trailing slash
-title = "goremoteli"
+title = "go remoteli"
 theme = "newsroom"
 author = "Irma"
 copyright = "Copyright © 2019"
