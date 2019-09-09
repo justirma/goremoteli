@@ -1,4 +1,4 @@
-baseurl = "https://goremote.li/"  # Include trailing slash
+baseurl = "/"  # Include trailing slash
 title = "go remoteli"
 theme = "newsroom"
 author = "Irma"
