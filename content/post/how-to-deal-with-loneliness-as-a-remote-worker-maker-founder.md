@@ -10,9 +10,7 @@ categories: [
 ]
 ---
 
----
-
-Ever since I've started to work remote or work from home I've felt the feeling of lonely almost consistently.
+Ever since I've started to work remote I've felt loneliness almost consistently.
 
 <!--more-->
 

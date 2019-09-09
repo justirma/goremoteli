@@ -13,9 +13,7 @@ categories: [
 ]
 ---
 
-Okay, so not only is it difficult to hire remote employees but it’s even harder to onboard them. Ideally, if your company can afford it it’s substantially easier to have an offsite to onboard the new hire in person but that’s not super realistic and never expected.
-
-<!--more-->
+Okay, so not only is it difficult to hire remote employees but it’s even harder to onboard them. <!--more--> Ideally, if your company can afford it it’s substantially easier to have an offsite to onboard the new hire in person but that’s not super realistic and never expected.
 
 So, let’s talk about the alternative way to onboard a remote employee - asynchronously.
 

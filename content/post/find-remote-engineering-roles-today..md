@@ -12,8 +12,6 @@ categories: [
 ]
 ---
 
----
-
 I'll be covering 2 big topics to help you find and land your next Remote Engineering role. <!--more--> The first is understanding how to best showcase that you're open and ready to work in a remote work environment. Secondly, I'll show you a few sites that have truly worked for friends in the past to find and at least get an interview for a remote role.
 
 ## Building and starting to showcase your remote experience
