@@ -25,8 +25,6 @@ Most companies send over a ton of emails over several days during the first week
 
 So, to all HR managers out there, set up your new hires with everything they need before their start date. This may vary per company but if you’re able to set up your new hire with their preferred equipment (laptop, table, headphones, etc.) at least 1 week before their start date. If there’s any information or logins they can start getting access to at least 2-3 days before their start date that is always helpful. This allows for time to ask questions and less of a rush on the first day to get the new hire set up perfectly.
 
-<iframe width="470" height="320" src="https://theweeklyhuman.substack.com/embed" frameborder="0" scrolling="no"></iframe>
-
 #### Pair them with 1 or 2 team members as an “onboarding buddy”
 
 I’ve seen several companies and mainly startups pick up pairing new hires with a buddy. This can make transitions easier and allow the new hire to feel part of the team from the get-go.
@@ -51,10 +49,8 @@ So, set up a template in Google Docs that has a short checklist of the high prio
 
 My name is Irma Mesa. I'm a Product Manager in the ed-tech space and I love love love talking to and meeting new people. I've learned a ton through my years being in tech, at times being the only woman on a team, working remote and having incredible mentors. Now, I'm paying it forward.
 
-I run remote consulting for individuals, companies and teams of all sizes, [book me if you're interested.](/workwithme/)
+I run remote consulting for individuals, companies and teams of all sizes, [book me if you're interested.](https://goremote.li)
 
 Talk soon.
 
 Irma
-
-<iframe width="480" height="320" src="https://theweeklyhuman.substack.com/embed" frameborder="0" scrolling="no"></iframe>

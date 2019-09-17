@@ -22,9 +22,9 @@ You may know of remote work in a few different ways, let’s cover them.
 2.  Digital nomad
     1. Someone who works from their computer and re-locates every so often to travel, explore and run their business from literally anywhere in the world.
 3.  Work from home (WFH)
-    1.          Still popularly used today as an alternative describing that you’re taking a WFH day or that you have a WFH job.
+    1.           Still popularly used today as an alternative describing that you’re taking a WFH day or that you have a WFH job.
 4.  Remote work
-    1.          The all-encompassing and latest trending term to describe not working from a physical office.
+    1.           The all-encompassing and latest trending term to describe not working from a physical office.
 
 Let’s say all you’ve ever seen are people working from traditional office environments, warehouses, taxi cabs, etc. and this is all you’ve ever experienced as an active member of the workforce. Going from that to then learning about working from home can be extremely jarring. There’s a big misconception that to do great work you have to be physically close to your boss, your co-workers and, even your customers. But as we become more and more distributed through social media and the access of the online resources and tools the more it starts to make sense why and how working remotely is the new norm.
 
@@ -40,8 +40,6 @@ At the end of the day working from an office or working from home, we’re still
 
 -
 
-If you read this far, [here’s how](/workwithme) I can help you work towards forming or maintaining a fully remote team.
+I run remote consulting for individuals, companies and teams of all sizes, [book me if you're interested.](https://goremote.li)
 
 Irma
-
-<iframe width="480" height="320" src="https://theweeklyhuman.substack.com/embed" frameborder="0" scrolling="no"></iframe>

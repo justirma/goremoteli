@@ -38,8 +38,6 @@ Some co-working spaces require memberships but some allow day passes to be purch
 
 Small plug. I run a virtual co-working meetup for minorities. You can find it by going to this link. It's free and a space where you can feel safe and accountable in getting your work done. We meet weekly for 1 hour and try to hit 1 or 2 goals per meetup.
 
-<iframe width="480" height="320" src="https://theweeklyhuman.substack.com/embed" frameborder="0" scrolling="no"></iframe>
-
 ### Coffee shops
 
 ![Latte and notebook on wooden table at a coffee shop](/img/blog/coffeeshop.jpg)
@@ -60,24 +58,8 @@ If you have any specific questions on stomping on that lonely feeling while bein
 
 My name is Irma Mesa. I'm a Product Manager in the ed-tech space and I love love love talking to and meeting new people. I've learned a ton through my years being in tech, at times being the only woman on a team, working remote and having incredible mentors. Now, I'm paying it forward.
 
-I run remote consulting for companies and teams of all sizes, email me if you're interested.
-
-And most recently inspired by Ali Spittel I've started running office hours, check it out [here](https://calendly.com/_justirma).
+I run remote consulting for individuals, companies and teams of all sizes, [book me if you're interested.](https://goremote.li)
 
 Talk soon.
 
 Irma
-
---
-
-## About Me
-
-My name is Irma Mesa. I'm a Product Manager in the ed-tech space and I love love love talking to and meeting new people. I've learned a ton through my years being in tech, at times being the only woman on a team, working remote and having incredible mentors. Now, I'm paying it forward.
-
-I run remote consulting for individuals, companies and teams of all sizes, [book me if you're interested.](/workwithme/)
-
-Talk soon.
-
-Irma
-
-<iframe width="480" height="320" src="https://theweeklyhuman.substack.com/embed" frameborder="0" scrolling="no"></iframe>

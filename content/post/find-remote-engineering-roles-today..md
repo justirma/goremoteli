@@ -24,8 +24,6 @@ Here are few ways to _spin_ remote work experience and showcase it if you're app
 
 3. **You've developed a product with a team that was spread across timezones** - another great way to spin remote work. Communicating and developing a product in a non-physical space is difficult and if you've done this before you have some of the chops to say that you have remote work experience.
 
-<iframe width="480" height="320" src="https://theweeklyhuman.substack.com/embed" frameborder="0" scrolling="no"></iframe>
-
 ## Start with these 3 Remote Job sites
 
 **[WeWorkRemotely.com](https://weworkremotely.com/)**
@@ -62,10 +60,8 @@ Good luck! If you need specific help, don't hesitate to reach out.
 
 My name is Irma Mesa. I'm a Product Manager in the ed-tech space and I love love love talking to and meeting new people. I've learned a ton through my years being in tech, at times being the only woman on a team, working remote and having incredible mentors. Now, I'm paying it forward.
 
-I run remote consulting for individuals, companies and teams of all sizes, [book me if you're interested.](/workwithme/)
+I run remote consulting for individuals, companies and teams of all sizes, [book me if you're interested.](https://goremote.li)
 
 Talk soon.
 
 Irma
-
-<iframe width="480" height="320" src="https://theweeklyhuman.substack.com/embed" frameborder="0" scrolling="no"></iframe>
