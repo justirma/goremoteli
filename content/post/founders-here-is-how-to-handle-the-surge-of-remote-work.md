@@ -11,7 +11,7 @@ categories: [
 ]
 ---
 
-## A letter to founders and managers,
+A letter to founders and managers,
 
 <!--more-->
 
