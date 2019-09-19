@@ -1,21 +1,22 @@
-*{
+* {
   box-sizing: border-box;
   -webkit-appearance: none;
   margin: 0;
   padding: 0;
 }
-body, html {
+body,
+html {
   scroll-behavior: smooth;
 }
-body{
+body {
   font-family: var(--font);
   background-color: var(--bg);
   color: var(--text);
   font-size: 16px;
   line-height: 1.5;
-  max-width:1440px;
-  margin:0 auto;
-  position:relative;
+  max-width: 1440px;
+  margin: 0 auto;
+  position: relative;
   font-kerning: normal;
   display: flex;
   flex-direction: column;
@@ -25,15 +26,15 @@ body{
   -moz-osx-font-smoothing: grayscale;
 }
 
-a{
+a {
   text-decoration: none;
-  color:inherit;
+  color: inherit;
 }
 blockquote {
   opacity: 0.8;
   padding: 1rem;
   position: relative;
-  quotes:'\201C''\201D''\2018''\2019';
+  quotes: "\201C""\201D""\2018""\2019";
   margin: 0.75rem 0;
   display: flex;
   flex-flow: row wrap;
@@ -50,7 +51,7 @@ blockquote {
     left: 0;
     background: $theme;
   }
-  p{
+  p {
     padding-left: 0.5rem 0 !important;
     font-size: 1.1rem !important;
     width: 100%;
@@ -63,7 +64,11 @@ code {
   word-wrap: break-word;
   word-break: break-all;
 }
-h1,h2,h3,h4,h5{
+h1,
+h2,
+h3,
+h4,
+h5 {
   font-family: inherit;
   text-transform: capitalize;
   font-weight: 400;
@@ -71,39 +76,41 @@ h1,h2,h3,h4,h5{
   margin: 1rem 0;
   color: inherit;
 }
-h1{
-  font-size:200%;
+h1 {
+  font-size: 200%;
   font-weight: 400;
 }
-h2{
-  font-size:175%;
+h2 {
+  font-size: 175%;
 }
-h3{
-  font-size:150%;
+h3 {
+  font-size: 150%;
 }
-h4{
-  font-size:125%;
+h4 {
+  font-size: 125%;
 }
-h5{
-  font-size:120%;
+h5 {
+  font-size: 120%;
 }
 img {
   max-width: 100%;
   vertical-align: middle;
-  height:auto;
-  margin:15px auto;
-  padding:0;
+  height: auto;
+  margin: 15px auto;
+  padding: 0;
 }
-main{
+main {
   padding-bottom: 45px;
   flex: 1;
 }
-ul{
+ul {
   list-style: none;
-  -webkit-padding-start:0;
-  -moz-padding-start:0;
+  -webkit-padding-start: 0;
+  -moz-padding-start: 0;
 }
-b, strong, em {
+b,
+strong,
+em {
   font-weight: 500;
 }
 hr {

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>about on go remoteli</title>
+    <link>/tags/about/</link>
+    <description>Recent content in about on go remoteli</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyright © 2019</copyright>
+    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About Go Remoteli</title>
+      <link>/about/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description> Hi, Welcome to Go Remoteli.
+Our mission is to educate #remotenewbies. Whether your individual contributer, manager or founder then this product is for you. Stick around to learn, receive resources and tools to level up your remote work.
+Check out our services here.
+ </description>
+    </item>
+    
+  </channel>
+</rss>
