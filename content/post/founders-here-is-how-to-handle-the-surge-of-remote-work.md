@@ -13,6 +13,8 @@ categories: [
 
 ## A letter to founders and managers,
 
+<!--more-->
+
 If you’re a startup founder or you’re a hiring manager whose company has held a physical office with no remote employees, it’s sorta time for you to think about why this is. As the wave of millennials starts breaking and changing the workforce (for the better) there are going to major changes in the way on-boarding, job descriptions, inclusion, communications and more start to evolve.
 
 I mean, we’re seeing it right now
