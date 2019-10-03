@@ -20,6 +20,12 @@ Here are few ways to _spin_ remote work experience and showcase it if you're app
 
 1. **You have worked with a remote team before** - this one is obvious. If you have this experience you'll probably be solid from the remote work front if a company requires it. This can be in the form of a full-time role or a contract gig where you were not in the same physical space as the rest of the team.
 
+<iframe
+scrolling="no"
+style="width:100%!important;height:220px;border:1px #ccc solid !important"
+src="https://buttondown.email/remotenewbie?as_embed=true"
+></iframe>
+
 2. **Your local company has let you work from home a few days a week** - this is remote work experience right here! Working from home 2-3 times a week while the rest of your team either remains in the office or is similarly working remote, you still had to encounter a lot of the work style, communications, and asynchronous responsibilities as a full-time remote worker.
 
 3. **You've developed a product with a team that was spread across timezones** - another great way to spin remote work. Communicating and developing a product in a non-physical space is difficult and if you've done this before you have some of the chops to say that you have remote work experience.
@@ -60,7 +66,7 @@ Good luck! If you need specific help, don't hesitate to reach out.
 
 My name is Irma Mesa. I'm a Product Manager in the ed-tech space and I love love love talking to and meeting new people. I've learned a ton through my years being in tech, at times being the only woman on a team, working remote and having incredible mentors. Now, I'm paying it forward.
 
-I run remote consulting for individuals, companies and teams of all sizes, [book me if you're interested.](https://goremote.li)
+Join our community and receive coaching to become successful at remote work [here](https://remotenewbie.com).
 
 Talk soon.
 

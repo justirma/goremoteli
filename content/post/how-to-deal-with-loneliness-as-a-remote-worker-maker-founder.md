@@ -38,6 +38,12 @@ Some co-working spaces require memberships but some allow day passes to be purch
 
 Small plug. I run a virtual co-working meetup for minorities. You can find it by going to this link. It's free and a space where you can feel safe and accountable in getting your work done. We meet weekly for 1 hour and try to hit 1 or 2 goals per meetup.
 
+<iframe
+scrolling="no"
+style="width:100%!important;height:220px;border:1px #ccc solid !important"
+src="https://buttondown.email/remotenewbie?as_embed=true"
+></iframe>
+
 ### Coffee shops
 
 ![Latte and notebook on wooden table at a coffee shop](/img/blog/coffeeshop.jpg)
@@ -58,7 +64,7 @@ If you have any specific questions on stomping on that lonely feeling while bein
 
 My name is Irma Mesa. I'm a Product Manager in the ed-tech space and I love love love talking to and meeting new people. I've learned a ton through my years being in tech, at times being the only woman on a team, working remote and having incredible mentors. Now, I'm paying it forward.
 
-I run remote consulting for individuals, companies and teams of all sizes, [book me if you're interested.](https://goremote.li)
+Join our community and receive coaching to become successful at remote work [here](https://remotenewbie.com).
 
 Talk soon.
 

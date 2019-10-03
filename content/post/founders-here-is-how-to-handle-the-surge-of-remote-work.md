@@ -55,7 +55,7 @@ These 3 suggestions are suggestions. But those that commit to doing all three, s
 
 My name is Irma Mesa. I'm a Product Manager in the ed-tech space and I love love love talking to and meeting new people. I've learned a ton through my years being in tech, at times being the only woman on a team, working remote and having incredible mentors. Now, I'm paying it forward.
 
-I run remote consulting for individuals, companies and teams of all sizes. Let's collaborate and work together to get you from #remotenewbie to #remotepro. [Sign up here](https://goremote.li)
+I run remote consulting for individuals, companies and teams of all sizes. Join our community and receive coaching to become successful at remote work [here](https://remotenewbie.com).
 
 Talk soon.
 
