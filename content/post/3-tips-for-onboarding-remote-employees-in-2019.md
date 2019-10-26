@@ -55,8 +55,4 @@ So, set up a template in Google Docs that has a short checklist of the high prio
 
 My name is Irma Mesa. I'm a Product Manager in the ed-tech space and I love love love talking to and meeting new people. I've learned a ton through my years being in tech, at times being the only woman on a team, working remote and having incredible mentors. Now, I'm paying it forward.
 
-Join our community and receive coaching to become successful at remote work [here](https://remotenewbie.com).
-
-Talk soon.
-
-Irma
+Thanks for reading! Keep up with our blogs, courses and free webinars by subscribing to our weekly newsletter. [Subscribe](https://theweeklyhuman.substack.com/)

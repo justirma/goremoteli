@@ -30,12 +30,6 @@ This is HUGE. The more access technology brings the faster we’re going to see 
 5. freedom
 6. settings that allow for optimal productivity
 
-<iframe
-scrolling="no"
-style="width:70%!important;height:220px;border:1px #ccc solid !important"
-src="https://buttondown.email/goremoteli?as_embed=true"
-></iframe>
-
 So, if you know of a company that is not keeping up with the trend of remote work or maybe you are someone who’s trying to figure out the space of remote work so that you can start exposing your teams to it.
 
 ### Here are my actionable suggestions:
@@ -55,8 +49,4 @@ These 3 suggestions are suggestions. But those that commit to doing all three, s
 
 My name is Irma Mesa. I'm a Product Manager in the ed-tech space and I love love love talking to and meeting new people. I've learned a ton through my years being in tech, at times being the only woman on a team, working remote and having incredible mentors. Now, I'm paying it forward.
 
-I run remote consulting for individuals, companies and teams of all sizes. Join our community and receive coaching to become successful at remote work [here](https://remotenewbie.com).
-
-Talk soon.
-
-Irma
+Thanks for reading! Keep up with our blogs, courses and free webinars by subscribing to our weekly newsletter. [Subscribe](https://theweeklyhuman.substack.com/)
