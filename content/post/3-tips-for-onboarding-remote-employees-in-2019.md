@@ -31,12 +31,6 @@ I’ve seen several companies and mainly startups pick up pairing new hires with
 
 Pick an employee that has been with the company for 6 months to 1 year and provide them an outline of what they should be reviewing with the new hire, these can include communication norms, Slack tips, documentation processes, policies, and more. It also gives a way for the new hire to not feel isolation having someone they can freely talk to with.
 
-<iframe
-scrolling="no"
-style="width:100%!important;height:220px;border:1px #ccc solid !important"
-src="https://buttondown.email/remotenewbie?as_embed=true"
-></iframe>
-
 #### Provide them with an onboarding checklist
 
 This is a must! Emails, chats, etc. can get tricky with onboarding especially with all the new people and messages the new hire will be receiving.
