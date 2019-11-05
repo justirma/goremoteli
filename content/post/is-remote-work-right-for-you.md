@@ -39,13 +39,13 @@ The most common industry that you’ll find remote work in, is ‘tech’. This 
 
 3. Crave group lunches and regular outings with the team
 
-4. Like working with physical components while collaborating (stickies, whiteboard, flash cards, etc.)
+4. Like working with physical components while collaborating (stickies, whiteboard, flashcards, etc.)
 
 5. Or are just unsure if you could perform your best
 
 _You might want to consider something in the office or at least partially remote/remote optional._
 
-I am honestly not straying you away. I personally believe that a lot of people should be remote workers. What needs to be taken away here, is that you should truly asses it, regardless if you think it’s perfect at first glance. There are positives and negatives for sure. You just don’t want to me a few months into that dream job and suddenly realize you hate every second of it.
+I am honestly not straying you away. I personally believe that a lot of people should be remote workers. What needs to be taken away here, is that you should truly assess it, regardless if you think it’s perfect at first glance. There are positives and negatives for sure. You just don’t want to be a few months into that dream job and suddenly realize you hate every second of it.
 
 If you are the kind of person that doesn’t mind ‘hustling’ or working a second/third job or gig, maybe try it out on nights and weekends. It doesn’t even need to be with an actual job or ‘company’. You could try to work on some passion projects with a remote team. See how productive you are, see if you crave that in-person interaction. If you are bold, maybe even ask your current employer to work a couple of days a week remote. Who knows, maybe you’ll even shift your entire jobs work environment!
 
